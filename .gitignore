@@ -1,0 +1,41 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+.idea/gpt-java-integration.iml
+.idea/gpt-java-integration.iml
+openai-java/.idea/codeStyles/codeStyleConfig.xml
+openai-java/.idea/codeStyles/Project.xml
+openai-java/.idea/compiler.xml
+openai-java/.idea/jarRepositories.xml
+openai-java/.idea/misc.xml
+openai-java/.idea/vcs.xml
+openai-java/pom.xml
